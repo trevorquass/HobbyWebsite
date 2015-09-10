@@ -1,0 +1,60 @@
+#header {
+    background-color:#00FFFF;
+    color:#404040;
+    text-align:center;
+    padding:5px;
+    font-family: "Trebuchet MS", Arial, Helvedica, sans-serif;
+	font-size: 40;
+}
+#slogan {
+	background-color:#00FFFF;
+    color:#404040;
+    text-align:center;
+    padding:5px;
+    font-family: "Trebuchet MS", Arial, Helvedica, sans-serif;
+    font-size: 10;
+}
+#tableofcontents {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px;
+    color:#404040;	      
+}
+#monthinformation {
+    width:350px;
+    float:left;
+    padding:10px;
+    color:#404040;	 	 
+}
+#poll {
+    background-color:#00FFFF;
+    font-family: "Trebuchet MS", Arial, Helvedica, sans-serif;
+	font-size: 40;
+    color:#404040;
+    clear:both;
+    text-align:center;
+   padding:5px;	 	 
+}
+#equipment {
+	font-family: "Trebuchet MS", Arial, Helvedica, sans-serif;
+	width: 250px;
+	border-collapse: collapse;
+}
+#equipment td, #equipment th {
+	font-size: 8;
+	border: 1px solid #404040;
+	padding: 3px 7px 2px 7px;
+}
+#equipment th {
+	font-size: 12;
+	text-align: left;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	background-color: #00BFFF;
+	color: #404040}
+
+
+	
